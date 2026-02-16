@@ -7,43 +7,19 @@ The tree was structured based on a generic naming convention that follows `Sys-S
 ```console
 weiss-demo-opis/
 ├── LICENSE
-├── README
+├── README.md
 ├── Sys1
-│   ├── Sub1
-│   │   └── Dis
-│   │       └── Dev
-│   │           └── example-opi.json
-│   ├── Sub2
-│   │   └── Dis
-│   │       └── Dev
-│   │           └── example-opi.json
-│   └── Sub3
+│   └── Sub1
 │       └── Dis
 │           └── Dev
 │               └── example-opi.json
 ├── Sys2
-│   ├── Sub1
-│   │   └── Dis
-│   │       └── Dev
-│   │           └── example-opi.json
-│   ├── Sub2
-│   │   └── Dis
-│   │       └── Dev
-│   │           └── example-opi.json
-│   └── Sub3
+│   └── Sub1
 │       └── Dis
 │           └── Dev
 │               └── example-opi.json
 └── Sys3
-    ├── Sub1
-    │   └── Dis
-    │       └── Dev
-    │           └── example-opi.json
-    ├── Sub2
-    │   └── Dis
-    │       └── Dev
-    │           └── example-opi.json
-    └── Sub3
+    └── Sub1
         └── Dis
             └── Dev
                 └── example-opi.json
