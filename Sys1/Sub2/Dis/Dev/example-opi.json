@@ -92,7 +92,7 @@
       "yAxisTitle": "Y axis",
       "logscaleY": false,
       "plotBufferSize": 80,
-      "plotLineStyle": "lines",
+      "plotLineStyle": "lines+markers",
       "showLegend": true,
       "fontFamily": "sans-serif",
       "fontSize": 14,
