@@ -30,7 +30,12 @@
       "visible": true,
       "tooltip": "",
       "alarmBorder": true,
-      "pvNames": ["$(P)PhasAArr-Mon", "$(P)PhasBArr-Mon", "$(P)PhasCArr-Mon", "$(P)AmplArr-Mon"],
+      "pvNames": [
+        "$(P)PhasAArr-Mon",
+        "$(P)PhasBArr-Mon",
+        "$(P)PhasCArr-Mon",
+        "$(P)AmplArr-Mon"
+      ],
       "lineColors": [
         "rgba(172, 0, 0, 1)",
         "rgba(23, 224, 224, 1)",
@@ -358,7 +363,12 @@
       "visible": true,
       "tooltip": "",
       "alarmBorder": true,
-      "pvNames": ["$(P)PhasAArr-Mon", "$(P)PhasBArr-Mon", "$(P)PhasCArr-Mon", "$(P)AmplArr-Mon"],
+      "pvNames": [
+        "$(P)PhasAArr-Mon",
+        "$(P)PhasBArr-Mon",
+        "$(P)PhasCArr-Mon",
+        "$(P)AmplArr-Mon"
+      ],
       "lineColors": [
         "#0353a4",
         "rgba(2, 94, 22, 1)",

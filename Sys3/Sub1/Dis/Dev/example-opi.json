@@ -30,7 +30,12 @@
       "visible": true,
       "tooltip": "",
       "alarmBorder": true,
-      "pvNames": ["$(P)PhasAArr-Mon", "$(P)PhasBArr-Mon", "$(P)PhasCArr-Mon", "$(P)AmplArr-Mon"],
+      "pvNames": [
+        "$(P)PhasAArr-Mon",
+        "$(P)PhasBArr-Mon",
+        "$(P)PhasCArr-Mon",
+        "$(P)AmplArr-Mon"
+      ],
       "lineColors": [
         "#0353a4",
         "rgba(255, 255, 0, 1)",
@@ -283,7 +288,9 @@
       "fontUnderlined": false,
       "pvName": "$(P)mbbo",
       "disabled": false,
-      "enumChoices": [""],
+      "enumChoices": [
+        ""
+      ],
       "labelFromPV": true
     }
   },
@@ -484,7 +491,9 @@
       "fontUnderlined": false,
       "pvName": "$(P)bo",
       "disabled": false,
-      "enumChoices": [""],
+      "enumChoices": [
+        ""
+      ],
       "labelFromPV": true
     }
   },
