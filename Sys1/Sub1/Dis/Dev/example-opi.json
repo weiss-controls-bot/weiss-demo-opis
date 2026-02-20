@@ -63,8 +63,8 @@
     "id": "Slider-cc138034-7496-4b0a-ac46-5aa244181983",
     "widgetName": "Slider",
     "properties": {
-      "x": -44,
-      "y": -170,
+      "x": -41,
+      "y": -269,
       "width": 85,
       "height": 358,
       "backgroundColor": "rgba(172, 0, 0, 1)",
